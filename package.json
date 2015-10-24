@@ -1,0 +1,23 @@
+{
+  "name": "angular-typescript-seed",
+  "version": "1.0.0",
+  "description": "angular-typescript-seed",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "typescript", "seed"
+  ],
+  "author": "Florent Gros",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-injector": "^0.6.1",
+    "grunt-wiredep": "^2.0.0",
+    "tsd": "^0.6.5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "angular-typescript-seed",
+  "version": "1.0.0",
+  "authors": [
+    "Florent Gros <florent.gros@gadz.org>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
